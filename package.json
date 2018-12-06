@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer-testing-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daehwann/puppeteer-sample-project.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "daehwann@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daehwann/puppeteer-sample-project/issues"
+  },
+  "homepage": "https://github.com/daehwann/puppeteer-sample-project#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
